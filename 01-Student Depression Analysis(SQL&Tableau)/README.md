@@ -88,9 +88,8 @@ These visualizations help explore how different student-related factors are dist
 ## Dashboard Screenshots
 
 
-```markdown
 ![Student Count Analysis](Screenshots/Dashboard.png)
-```
+
 
 ## How to Run the Project
 
