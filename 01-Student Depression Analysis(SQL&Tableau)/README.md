@@ -1,4 +1,4 @@
-# 1 Student Depression Analysis | SQL & Tableau
+# 1. Student Depression Analysis | SQL & Tableau
 
 An exploratory data analytics project using SQL Server and Tableau to analyze student depression-related indicators and their relationships with academic pressure, study satisfaction, sleep duration, study hours, and financial stress.
 
