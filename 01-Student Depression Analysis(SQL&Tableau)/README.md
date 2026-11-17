@@ -117,7 +117,7 @@ This project is intended for exploratory data analysis. The observed patterns do
 
 ## Author
 
-**Your Name**
+**Sagaljot singh**
 
 ---
 
